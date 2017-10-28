@@ -161,11 +161,6 @@ WEIXIN_SECRET_KEY = 'c3dc96d4b7ff2c8e9f3506a1c1dbfa6f'
 
 WEIXIN_API_URL = 'https://api.weixin.qq.com/sns/jscode2session'
 
-##  zhongce
-WEIXIN_APP_ID = 'wx182ac3cf3f27bf8c'
-
-WEIXIN_SECRET_KEY = 'e98fc8674794ca6158356aea88dd0d8e'
-
 
 # logging 模块
 LOG_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../logs")
