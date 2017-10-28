@@ -9,4 +9,3 @@ requests
 pycrypto
 qrcode==5.1
 gevent
-supervisor
